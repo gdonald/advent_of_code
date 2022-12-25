@@ -1,4 +1,4 @@
-# advent_of_code
+# Advent of Code
 
 My solutions for the [https://adventofcode.com/](https://adventofcode.com/)
 
